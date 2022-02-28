@@ -69,4 +69,4 @@ For new customer, we can recommend products using association rule mining techni
 # Future Steps 
   1. With the additional data, The accuracy can be improved further to improve better customer experience
   2. Using NLP techniques, product description can also be used as feature to further improve the accuracy 
-# Thank You!
+# Thank You! Our team won 3rd prize in ML Hackathon 

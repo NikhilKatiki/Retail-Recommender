@@ -17,8 +17,8 @@
        &nbsp;&nbsp;&nbsp;&nbsp; v.Increase average order value<br>
        &nbsp;&nbsp;&nbsp;&nbsp; vi.Increase number of items per order and a lot<br>
 # Objective 
-  1.The business wanted to understand if the customer is going to reorder <br> 
-  2.Apart from that, It is also important for business to understand  <br>
+  1.The business wanted to understand if the customer is going to reorder a product based on his purchasing characterstics <br> 
+  2.Apart from that, It is also important for business to understand the most frequently brought together(Market basket analysis) <br>
 # Data Sources
   1. aisles.csv - This file consists of aisle id along with their description <br>
   2. departments.csv -This file consists of department id along with their description 
